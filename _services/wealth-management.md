@@ -6,7 +6,7 @@ weight: 8
 
 Ángel De Jesús García González.
 
-![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
+![Accounting Services](/images/ImgeAlondra/Imagen1.jpeg)
 
 El próximo mundial de fútbol se llevará a cabo en Qatar a partir del próximo 20 noviembre hasta el 18 de diciembre.  A pesar de que la FIFA nos los quiere vender como el mejor mundial de la historia todo parece indicar que será lo contrario, pues, las polémicas y los temas de extra cancha que rodean a este mundial han dado mucho de qué hablar  recientemente.
 
