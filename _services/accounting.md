@@ -14,6 +14,7 @@ No obstante, otros estudiantes comentaron lo siguiente: Me hubiera gustado que p
 
 No obstante, la gente se veía alegre en la competencia de disfraces con temática de ese día alusivo y que recibió grandes comentarios ya que les pareció una dinámica muy bonita y alegre y en consecuencia podrían a ver más candidatos para el otro año en la universidad del altiplano.
 
+<iframe width="420" height="315" src="/images/Videos/V1.mp4" frameborder="0"></iframe>
 ![Accounting Services](/images/Videos/V1.mp4)
 
 
