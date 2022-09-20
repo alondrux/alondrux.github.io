@@ -43,6 +43,8 @@ Comparability is the uniform application of accounting methods across entities i
 Understandability means that accounting reports should be expressed as clearly as possible and should be understood by those to whom the information is relevant.
 Timeliness: Timeliness implies that financial information must be presented to the users before a decision is to be made.
 
+<iframe width="420" height="315" src="http://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0"></iframe>
+
 ---
 
 ## Statement of cash flows
