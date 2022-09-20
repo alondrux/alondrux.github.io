@@ -5,7 +5,7 @@ weight: 4
 ---
 La danza es una celebración a la vida que nos permite expresar y transmitir sentimientos o emociones sin la necesidad de palabras, sólo con tus movimientos y expresiones. Esta es una disciplina artística que requiere de empeño, tiempo y muchísima responsabilidad. Se necesitan técnicas y concentración, pero sobre todo corazón y las inmensas ganas de querer hacerlo. Sus montajes son impresionantes, muestran gran habilidad y coordinación, además de la gran variedad de vestuarios coloridos y aptos para cada región. Sus montajes y una disciplina que llenan de emoción, proyectan seguridad y una gran alegría. Es clara representación de la cultura en México, sus vestuarios, montajes y la música te hacen sentir como en casa.
 
-![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
+![Accounting Services](/images/ImgeAlondra/Imagen5.jpeg)
 
 ---
 
